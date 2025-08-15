@@ -21,7 +21,16 @@ predictions = [
     "Food might be poisoned",
     "You may receive a love letter from someone",
     "I hope this email finds you depressed...",
-    "50/50 chance of meeting Shigeo"
+    "50/50 chance of meeting Shigeo",
+"You will get F from one of the courses",
+"You will get A on your next assignment",
+"Don't miss tomorrow's 9 am lecture!",
+"That coffee from Daily was not worth it",
+"Corner cashier will smile to you today",
+"Magnum cash register will break on your turn",
+"Be ready for pop up quiz" 
+
+
 ]
 
 @dp.inline_handler()
