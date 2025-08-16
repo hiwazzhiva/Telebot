@@ -56,7 +56,6 @@ predictions = [
 "3 people are going to annoy you",
 "Text your crush. No seriously GO TEXT YOUR CRUSH",
 "This semester will be the best",
-"This semester will be the worst",
 "There is a cockroach in your room",
 "Go play boardgames! It will be fun",
 "It's time to pull an allnighter",
