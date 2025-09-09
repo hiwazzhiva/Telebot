@@ -12,6 +12,7 @@ dp = Dispatcher(bot)
 
 predictions = [
     "You will be dismissed",
+    "Чопрайс",
     "It was a tough day, you deserve a coffee!",
     "Go chal you lazy bish",
     "A surprise awaits you (probation)",
