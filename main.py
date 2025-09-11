@@ -30,6 +30,7 @@ predictions = [
 "Corner cashier will smile to you today",
 "Magnum cash register will break on your turn",
 "Be ready for pop up quiz",
+    "Чопрайс",
 "Your clothes will get dirty in the laundry",
 "You will be dismissed for missing that one session in orientation week.",
 "Your extra place from will be rejected",
